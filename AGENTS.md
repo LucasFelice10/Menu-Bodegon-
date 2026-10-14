@@ -1,0 +1,2 @@
+- Keep restaurant identity, menu content, prices and review destination in `src/data/restaurant.ts` so the visual menu can be adapted without changing the page layout.
+- Prices appear only inside the dish detail view, never on the cards.
